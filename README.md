@@ -1,3 +1,3 @@
 SavageLoveArticles
 ==================
-Uses the SavageLovePodcast bot and the SavageLoveArticleBot to update /r/savagelove.
+Uses the SavageLoveArticleBot to update /r/savagelove. Credit to https://github.com/gavin19/reddit-rss-bot/blob/master/rss-bot.js for the basic outline.
